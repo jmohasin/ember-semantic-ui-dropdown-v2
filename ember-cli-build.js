@@ -14,5 +14,17 @@ module.exports = function(defaults) {
     behave. You most likely want to be modifying `./index.js` or app's build file
   */
 
+   // Import Highlight.js
+   app.import("node_modules/highlightjs/highlight.pack.min.js");
+
+   app.import("node_modules/highlightjs/styles/github-gist.css");
+   app.import("node_modules/highlightjs/styles/hybrid.css");
+
+
+   app.import("node_modules/semantic-ui-css/semantic.min.css");
+   app.import("node_modules/semantic-ui-css/semantic.min.js");
+
+   
+
   return app.toTree();
 };

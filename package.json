@@ -20,7 +20,9 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "highlightjs": "^9.10.0",
+    "semantic-ui-css": "^2.3.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
