@@ -21,9 +21,11 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
+    "ember-promise-tools": "1.0.0",
+    "ember-runtime-enumerable-includes-polyfill": "^1.0.1",
+    "ember-string-ishtmlsafe-polyfill": "1.0.1",
     "highlightjs": "^9.10.0",
-    "semantic-ui-css": "^2.3.2",
-    "ember-string-ishtmlsafe-polyfill": "1.0.1"
+    "semantic-ui-css": "^2.3.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
