@@ -25,7 +25,7 @@
     "ember-runtime-enumerable-includes-polyfill": "^1.0.1",
     "ember-string-ishtmlsafe-polyfill": "1.0.1",
     "highlightjs": "^9.10.0",
-    "semantic-ui-css": "^2.3.2"
+    "semantic-ui-css": "~2.2.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
