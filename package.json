@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.7.3",
-    "ember-promise-tools": "1.0.0",
-    "ember-runtime-enumerable-includes-polyfill": "^1.0.1",
-    "ember-string-ishtmlsafe-polyfill": "1.0.1",
+    "ember-promise-tools": "^1.1.0",
+    "ember-runtime-enumerable-includes-polyfill": "^2.1.0",
+    "ember-string-ishtmlsafe-polyfill": "^2.0.2",
     "highlightjs": "^9.10.0",
     "semantic-ui-css": "~2.2.2"
   },
