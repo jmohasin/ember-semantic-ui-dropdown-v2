@@ -25,7 +25,7 @@ var defaults = {
 var getDefault = require('./lib/utils/get-default');
 
 module.exports = {
-  name: 'semantic-ui-ember',
+  name: require('./package').name,
 
   included: function (app) {
     var options = (app && app.project.config(app.env)['SemanticUI']) || {};
